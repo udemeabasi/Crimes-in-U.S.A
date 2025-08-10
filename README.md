@@ -32,7 +32,7 @@ It allows stakeholders to explore sales trends, track KPIs, and make data-driven
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_preview.png)  
+![Dashboard Screenshot](Images/crime_analysis.PNG)  
 *(Replace with actual screenshot path)*
 
 ---
