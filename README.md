@@ -1,24 +1,24 @@
-# 📊 Sales Dashboard – Power BI
+# Crimes in U.S.A Dashboard – Power BI
 
-## 📌 Project Overview
-This project is an **interactive sales performance dashboard** created using **Power BI**.  
-It allows stakeholders to explore sales trends, track KPIs, and make data-driven decisions.
+## Project Overview
+This project is an **interactive crime analyses dashboard** created using **Power BI**.  
+It is essential for understanding trends and patterns in criminal activity. This dashboard is valuable 
+for law enforcement agencies, policymakers, researchers, and the public to make informed decisions about crime prevention and intervention strategies.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop** – Data modeling, DAX calculations, and dashboard creation
 - **Excel** – Initial data cleaning and preparation
-- **SQL Server** – Data extraction
 - **DAX** – Measures and calculated columns
 - **Power Query** – Data transformation
 
 ---
 
-## 📂 Project Files
-- `Sales_Dashboard.pbix` – Main Power BI file
+## Project Files
+- `Crimes in USA from 2020.pbix` – Main Power BI file
 - `README.md` – Project documentation
-- `Data_Sample.xlsx` – Sample dataset (if applicable)
+- [![Dataset](https://img.shields.io/badge/Dataset-Download-blue)]([https://example.com/your-dataset-link](https://www.kaggle.com/datasets/qnqfbqfqo/crime-data-from-2020-to-present/data))
 
 ---
 
