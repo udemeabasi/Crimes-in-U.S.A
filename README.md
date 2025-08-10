@@ -18,44 +18,45 @@ for law enforcement agencies, policymakers, researchers, and the public to make 
 ## Project Files
 - `Crimes in USA from 2020.pbix` – Main Power BI file
 - `README.md` – Project documentation
-- ## 📊 Dataset
+## Dataset
 The dataset used in this project can be accessed here:  
 [Download Dataset](https://www.kaggle.com/datasets/qnqfbqfqo/crime-data-from-2020-to-present?resource=download)
 
 ---
 
-## 📊 Dashboard Features
-- **Revenue Trends** – Monthly and yearly analysis
-- **Top Products** – Best-selling items by revenue and quantity
-- **Regional Performance** – Map visualization of sales by region
-- **KPI Tracking** – Total revenue, profit margin, customer growth
-- **Filters & Slicers** – Interactive filtering by date, product, and region
+## Dashboard Features
+- **Crime figures** – Yearly analysis
+- **Top Crimes** – Highest kind of crimes
+- **Area Performance** – Tabular display of crimes by areas
+- **KPI Tracking** – Crime rate, previous crimes, growth rate
+- **Filters & Slicers** – Interactive filtering by date
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
+![Dashboard Screenshot](Images/crime_introduction.PNG) 
+![Dashboard Screenshot](Images/crime_description.PNG)  
 ![Dashboard Screenshot](Images/crime_analysis.PNG)  
-*(Replace with actual screenshot path)*
 
 ---
 
-## 📥 How to Use
+## How to Use
 1. **Download the `.pbix` file** from this repository.
 2. Open in **Power BI Desktop**.
-3. Connect to your own dataset or use the provided sample data.
+3. Open the link to the dataset provided
+---
+
+## Insights Generated
+- Identified **crime rate by area** for crime prevention strategies.
+- Found **crime rate overtime** for showing how preventive measures have been working.
+- Highlighted **crimes by frequency** for further investigation why repeated crimes keep occuring
+- Shows **the rate of closed cases** 
 
 ---
 
-## 📈 Insights Generated
-- Identified **seasonal sales peaks** for targeted marketing.
-- Found **underperforming regions** needing strategic intervention.
-- Highlighted **top-performing product categories** for expansion.
-
----
-
-## 📌 Author
-**Your Name**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile] | [Portfolio Website]
+## Author
+**Udemeabasi Ekong**  
+[udemeabasi6@gmail.com]  
+[www.linkedin.com/in/udemeabasi-ekong-973344157]
 
 ---
