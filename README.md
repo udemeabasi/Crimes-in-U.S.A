@@ -34,7 +34,7 @@ The dataset used in this project can be accessed here:
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](Images/crime_introduction.PNG) 
+![Dashboard Screenshot](Images/introduction.PNG) 
 ![Dashboard Screenshot](Images/crime_description.PNG)  
 ![Dashboard Screenshot](Images/crime_analysis.PNG)  
 
