@@ -18,7 +18,9 @@ for law enforcement agencies, policymakers, researchers, and the public to make 
 ## Project Files
 - `Crimes in USA from 2020.pbix` – Main Power BI file
 - `README.md` – Project documentation
-- [![Dataset](https://img.shields.io/badge/Dataset-Download-blue)]([https://example.com/your-dataset-link](https://www.kaggle.com/datasets/qnqfbqfqo/crime-data-from-2020-to-present/data))
+- ## 📊 Dataset
+The dataset used in this project can be accessed here:  
+[Download Dataset](https://www.kaggle.com/datasets/qnqfbqfqo/crime-data-from-2020-to-present?resource=download)
 
 ---
 
